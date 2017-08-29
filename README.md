@@ -1,2 +1,2 @@
 # lara-zzld-pkgs
-Some laravel packages for my company
+Some laravel packages for my company.
